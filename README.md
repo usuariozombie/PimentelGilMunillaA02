@@ -12,7 +12,6 @@ Este es un proyecto simple de Flutter que presenta un contador con funcionalidad
 ## Capturas de pantalla
 
 ![Captura de pantalla](https://media.discordapp.net/attachments/888067531846328390/1198312123860795523/image.png?ex=65be7221&is=65abfd21&hm=995f1fe69caf0b87cfbea07c00a012948170dba83f67c6314f654de8ac3a3ad9&=&format=webp&quality=lossless&width=321&height=671)
-*Descripción de la captura de pantalla 1.*
 
 ## Estructura del Proyecto
 
