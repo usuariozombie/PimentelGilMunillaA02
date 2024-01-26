@@ -1,6 +1,6 @@
-# Ejercicio 02
+# Ejercicio 03
 
-Este es un proyecto simple de Flutter que presenta un contador con funcionalidades básicas. El contador permite incrementar, resetear y decrementar un valor numérico. Además, incluye un mensaje de bienvenida personalizado, pero esto sería tan solo la parte visual sin la funcionalidad.
+Este es un proyecto simple de Flutter que presenta un contador con funcionalidades básicas. El contador permite incrementar, resetear y decrementar un valor numérico. Se le ha añadido toda la funcionalidad además de separar los botones que se repetían en una clase a parte.
 
 ## Características
 
@@ -11,7 +11,7 @@ Este es un proyecto simple de Flutter que presenta un contador con funcionalidad
 
 ## Capturas de pantalla
 
-![Captura de pantalla](https://media.discordapp.net/attachments/888067531846328390/1198312123860795523/image.png?ex=65be7221&is=65abfd21&hm=995f1fe69caf0b87cfbea07c00a012948170dba83f67c6314f654de8ac3a3ad9&=&format=webp&quality=lossless&width=321&height=671)
+![Captura de pantalla](https://cdn.discordapp.com/attachments/888067531846328390/1200505038565539870/localhost_61778-Perfil-1_-Microsoft_-Edge-2024-01-26-19-15-24.gif?ex=65c66c71&is=65b3f771&hm=eb2c0263407055a29a2e52befa20ff0c45bbc04103b4d81db08e8c9e52ede098&)
 
 ## Estructura del Proyecto
 
